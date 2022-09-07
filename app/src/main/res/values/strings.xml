@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgeInMinutes</string>
+    <string name="calculateYourAge">CALCULATE YOUR AGE</string>
+    <string name="inMinutes">IN MINUTES</string>
+    <string name="youAre">YOU ARE</string>
+    <string name="selectDate">SELECT DATE</string>
+    <string name="zero">0</string>
+    <string name="minutesOld">MINUTES OLD</string>
+    <string name="defaultDate">00.00.0000</string>
+    <string name="dateSelected">DATE SELECTED: </string>
+</resources>
